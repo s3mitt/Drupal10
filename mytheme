@@ -1,0 +1,10 @@
+mytheme/
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── templates/
+│   └── page.html.twig
+├── mytheme.info.yml
+├── mytheme.libraries.yml
+├── mytheme.theme
